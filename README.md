@@ -14,3 +14,13 @@ This observational retrospective study examined the Historical Archive of Onomas
 
 **Keywords**: Forensic Medical Service, Mexico City, data analysis, historical archive, forensic pathology, causes of demise.
 
+# Archivos suplementarios
+* [SA1] Limpieza de datos
+* [SA2] Generación de catálogos
+* [SA3] Catálogos: edad, diagnóstico y procedencia
+* [SA4] Análisis por tipo de restos y contexto histórico
+* [SA5] Análisis temporal
+* [SA6] Análisis diagnósticos
+* [SA7] Estadística descriptiva de variables
+* [SA8] Conjunto de datos limpio
+* [SA9] Figuras suplementarias
