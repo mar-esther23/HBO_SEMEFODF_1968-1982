@@ -14,7 +14,9 @@ This observational retrospective study examined the Historical Archive of Onomas
 
 **Keywords**: Forensic Medical Service, Mexico City, data analysis, historical archive, forensic pathology, causes of demise.
 
-# Archivos suplementarios
+# Tablas y Archivos suplementarios
+* Tabla I: Diccionario y limpieza de datos realizada al HBO del SEMEFO-DF por la CNB y los autores.
+* Tabla II: Características de los ingresos al SEMEFO-DF (1968-1982) por tipo de restos. Porcentajes con respecto al total de la población.
 * [SA1] Limpieza de datos
 * [SA2] Generación de catálogos
 * [SA3] Catálogos: edad, diagnóstico y procedencia
